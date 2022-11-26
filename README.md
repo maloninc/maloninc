@@ -1,16 +1,21 @@
-### Hi there 👋
+## 🍎 About maloninc
+I'm a corporate engineer ← sales engineer ← systems engineer
 
-<!--
-**maloninc/maloninc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💡 My skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ruby,js,c,swift,go,cs,php,py,html,css,vue,lit,heroku,docker,postgresql,mysql,sqlite,raspberrypi,arduino,vscode" />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Stats
+[![Contributions](https://badgen.org/img/qiita/maloninc/contributions?style=plastic)](https://qiita.com/maloninc) 
+[![Follow @maloninc](https://badgen.net/twitter/follow/maloninc)](https://twitter.com/maloninc)
+
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maloninc&layout=compact&show_icons=true" />
+</p>
+
+## ✏️ Gist
+**[My gist](https://gist.github.com/maloninc)**
+
+
+## 💬 Contact me
+**[Mail - hiroyuki@maloninc.com](mailto:hiroyuki@maloninc.com)** | **[Twitter - @maloninc](https://twitter.com/maloninc)** | **[Web](https://maloninc.com)**
