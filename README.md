@@ -18,4 +18,4 @@ I'm a corporate engineer ← sales engineer ← systems engineer
 
 
 ## 💬 Contact me
-**[Mail - hiroyuki@maloninc.com](mailto:hiroyuki@maloninc.com)** | **[Twitter - @maloninc](https://twitter.com/maloninc)** | **[Web](https://maloninc.com)**
+**[LinkedIn](https://www.linkedin.com/in/hiroyuki-nakamura-97909134/)** | **[Twitter - @maloninc](https://twitter.com/maloninc)** | **[Web](https://maloninc.com)**
